@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Debug
+/.vs/Bkprop/v17
+/.vs/Bkprop/FileContentIndex
+*.pdb
+/bin/Debug/Bkprop.exe
